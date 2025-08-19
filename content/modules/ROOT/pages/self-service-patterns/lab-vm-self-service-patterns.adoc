@@ -137,8 +137,8 @@ Let's explore what type of VMs I can create in OpenShift. Imagine that you are n
 
 ** Login with your user credentials:
 
- ** *Username*: `%USERID%`
- ** *Password*: `{openshift-password}`
+ ** *Username*: {openshift_admin_user}
+ ** *Password*: {openshift_admin_password}
 
 ** Click on the *Virtual Machine* menu, then click on *Overview*.
 
