@@ -19,5 +19,5 @@ In this lab we will be gain hands-on experience to work with Software Templates 
 
 ** Login with your user credentials:
 
-    ** *Username*: `%USERID%`
-    ** *Password*: `{openshift-password}`
+    ** *Username*: {openshift_admin_user}
+    ** *Password*: {openshift_admin_password}
