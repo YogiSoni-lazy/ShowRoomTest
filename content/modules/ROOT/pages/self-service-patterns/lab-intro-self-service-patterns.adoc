@@ -22,5 +22,6 @@ In this lab we will be gain hands-on experience to work with Software Templates 
     ** *Username*: {openshift_admin_user}
     ** *Password*: {openshift_admin_password}
     ** *Openshift Console URL*: {console_url}
-    ** *Openshift Console URL*: {bastion_ssh_password}
+    ** *Bastion user password*: {bastion_ssh_password}
+    ** *Openshift Console URL*: {openshift_console_url}
     
