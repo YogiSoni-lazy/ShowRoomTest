@@ -1,5 +1,11 @@
 = Introduction to AI for AI Engineers
 
+{ openshift_console_url }
+{ openshift_admin_user }
+{ openshift_admin_password }
+{ openshift_password }
+{ openshift_user }
+
 == Introduction
 
 In this module, you will review AI concepts for Engineers, including frameworks, protocols, and tools to build AI applications.
