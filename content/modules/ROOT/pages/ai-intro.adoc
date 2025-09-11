@@ -1,10 +1,10 @@
 = Introduction to AI for AI Engineers
 
-{ openshift_console_url }
-{ openshift_admin_user }
-{ openshift_admin_password }
-{ openshift_password }
-{ openshift_user }
+1. Access: {openshift_console_url}
+1. Admin: {openshift_admin_user}
+2. Pass: {openshift_admin_password}
+3. Password: {openshift_password}
+4. User: {openshift_user}
 
 == Introduction
 
