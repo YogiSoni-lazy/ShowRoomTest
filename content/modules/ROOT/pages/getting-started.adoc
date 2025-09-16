@@ -4,6 +4,8 @@
 
 This is testing tine. {fruit} One more line
 
+URL is: {openshift_console_url}
+
 Openshift user is: `{ openshift_user }`
 
 Openshift password is: `{ openshift_user_password }`
