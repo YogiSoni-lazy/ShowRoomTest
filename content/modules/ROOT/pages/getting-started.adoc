@@ -5,8 +5,11 @@
 This is testing tine. {fruit} One more line
 
 Openshift user is: `{ openshift_user }`
+
 Openshift password is: `{ openshift_user_password }`
+
 Openshift url: `{ openshift_console_url }`
+
 App domain: `{ cluster_apps_domain }`
 ......
 
