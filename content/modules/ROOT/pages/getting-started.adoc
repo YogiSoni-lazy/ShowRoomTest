@@ -4,17 +4,19 @@
 
 This is testing tine. {fruit} One more line
 
+User is: {user}
+
 Git url: {gitlab_url}
 
 URL is: {openshift_console_url}
 
-Openshift user is: `{ openshift_user }`
+Openshift user is: {openshift_user}
 
-Openshift password is: `{ openshift_user_password }`
+Openshift password is: {openshift_user_password}
 
-Openshift url: `{ openshift_console_url }`
+Openshift url: {openshift_console_url}
 
-App domain: `{ cluster_apps_domain }`
+App domain: {cluster_apps_domain}
 ......
 
 Organizations developing software face a critical dual challenge: the urgent need to move fast by integrating AI and boosting developer productivity, coupled with the imperative to stay safe amidst rising software supply chain threats. Top software engineering priorities include integrating AI and increasing developer productivity, yet organizations struggle with long onboarding times, inconsistent development environments, and a lack of automation, which impede their ability to accelerate innovation and reduce the average 7-day software development cycle time. Simultaneously, despite open-source components comprising around 90% of modern applications, the ecosystem has seen a 156% year-on-year increase in malicious packages, leading to an estimated $60 billion in damages in 2025 and demanding effective risk remediation. This complex environment, where speed cannot compromise security, necessitates an integrated and comprehensive platform engineering solution like https://www.redhat.com/en/technologies/cloud-computing/openshift/advanced-developer-suite[Red Hat Advanced Developer Suite (RHADS)] to balance these competing demands.
