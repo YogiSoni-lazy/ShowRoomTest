@@ -4,6 +4,8 @@
 
 This is testing tine. {fruit} One more line
 
+Git url: {gitlab_url}
+
 URL is: {openshift_console_url}
 
 Openshift user is: `{ openshift_user }`
