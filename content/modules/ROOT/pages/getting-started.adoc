@@ -4,6 +4,8 @@
 
 This is testing tine. {fruit} One more line
 
+Domain: {openshift_cluster_ingress_domain}
+
 User is: {user}
 
 Git url: {gitlab_url}
