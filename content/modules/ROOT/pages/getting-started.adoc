@@ -2,6 +2,19 @@
 
 == Why Red Hat Advanced Developer Suite?
 
+-------------
+
+{openshift_cluster_ingress_domain}
+
+      {openshift_console_url}
+
+      {openshift_password}
+
+      {openshift_user}
+
+      {openshift_user_admin}
+
+-----------------
 This is testing tine. {fruit} One more line
 
 Domain: {openshift_cluster_ingress_domain}
